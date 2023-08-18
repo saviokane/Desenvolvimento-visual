@@ -8,10 +8,13 @@ namespace Aula01
 {
     internal class Cliente
     {
+        // Atibutos
         private String _nome;
         private int _idade;
         public static List<Cliente> cliente = new();
 
+
+        #region getter e setters
         public String Nome
         {
             get => _nome;
@@ -23,7 +26,10 @@ namespace Aula01
             get => _idade;
             set => _idade = value;
         }
-        
+
+        #endregion
+
+        #region propriedades públicas
         public Cliente()
         {
             _nome = String.Empty;
@@ -35,7 +41,9 @@ namespace Aula01
             _nome = Nome;
             _idade = Idade;
         }
+        #endregion
 
+        #region constructors
         public Cliente(String nome)
         {
             Cliente cTemp = cliente.Find(x => x.Nome == nome);
@@ -51,5 +59,13 @@ namespace Aula01
                 
             }
         }
+        #endregion
+
+        #region crud
+        public void inserir()
+        {
+            cliente.Add(this);
+        }
+        #endregion
     }
 }
