@@ -1,0 +1,7 @@
+C:\_src\Desenvolvimento-visual\Tasks\AtividadePratica\AtividadePratica\obj\Debug\net7.0\AtividadePratica.csproj.AssemblyReference.cache
+C:\_src\Desenvolvimento-visual\Tasks\AtividadePratica\AtividadePratica\obj\Debug\net7.0\AtividadePratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\_src\Desenvolvimento-visual\Tasks\AtividadePratica\AtividadePratica\obj\Debug\net7.0\AtividadePratica.AssemblyInfoInputs.cache
+C:\_src\Desenvolvimento-visual\Tasks\AtividadePratica\AtividadePratica\obj\Debug\net7.0\AtividadePratica.AssemblyInfo.cs
+C:\_src\Desenvolvimento-visual\Tasks\AtividadePratica\AtividadePratica\obj\Debug\net7.0\AtividadePratica.csproj.CoreCompileInputs.cache
+C:\_src\Desenvolvimento-visual\Tasks\AtividadePratica\AtividadePratica\obj\Debug\net7.0\AtividadePratica.MvcApplicationPartsAssemblyInfo.cs
+C:\_src\Desenvolvimento-visual\Tasks\AtividadePratica\AtividadePratica\obj\Debug\net7.0\AtividadePratica.MvcApplicationPartsAssemblyInfo.cache

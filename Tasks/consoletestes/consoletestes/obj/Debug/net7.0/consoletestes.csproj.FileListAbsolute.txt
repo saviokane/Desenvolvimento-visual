@@ -1,0 +1,14 @@
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\bin\Debug\net7.0\consoletestes.exe
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\bin\Debug\net7.0\consoletestes.deps.json
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\bin\Debug\net7.0\consoletestes.runtimeconfig.json
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\bin\Debug\net7.0\consoletestes.dll
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\bin\Debug\net7.0\consoletestes.pdb
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\consoletestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\consoletestes.AssemblyInfoInputs.cache
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\consoletestes.AssemblyInfo.cs
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\consoletestes.csproj.CoreCompileInputs.cache
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\consoletestes.dll
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\refint\consoletestes.dll
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\consoletestes.pdb
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\consoletestes.genruntimeconfig.cache
+C:\_src\Desenvolvimento-visual\Tasks\consoletestes\consoletestes\obj\Debug\net7.0\ref\consoletestes.dll
